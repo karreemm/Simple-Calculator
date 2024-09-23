@@ -5,4 +5,4 @@ A basic calculator supporting fundamental arithmetic operations.
 Built with HTML, CSS, and JavaScript.
 
 ## Demo
-link
+[Check It Now!](https://karreemm.github.io/SimpleCalculator.github.io/)
